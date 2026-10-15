@@ -2,8 +2,7 @@
   <img src="assets/NordVPN%20Blocked%20GNS3%20in%20VirtualBox.png"
        alt="GNS3 and NordVPN troubleshooting thumbnail"
        width="850">
-</div>
-
+  
 # 🛡️ GNS3 Network Troubleshooting
 
 ### VirtualBox Host-Only Networking & NordVPN
