@@ -1,0 +1,11 @@
+# Sanitized excerpt from WFP state; rule name preserved to explain confirmed finding.
+name: NordVPN Local Network - Block (AuthConnect v4)
+description: NordVPN local-network block.
+providerKey: <REDACTED_PROVIDER_GUID>
+subLayerKey: <REDACTED_SUBLAYER_GUID>
+filterKey: <REDACTED_FILTER_GUID>
+layerKey: FWPM_LAYER_ALE_AUTH_CONNECT_V4
+rule action: FWP_ACTION_BLOCK
+filterId: <FILTER_ID>
+condition: IPv4 private range 192.168.0.0/16
+# Other private IP ranges appeared in the filter conditions.

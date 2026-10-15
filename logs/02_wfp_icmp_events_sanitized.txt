@@ -1,0 +1,9 @@
+# Sanitized excerpt based on uploaded ICMP events; not full raw event log.
+ipProtocol: 1 (ICMP)
+localAddrV4: 192.168.56.1
+remoteAddrV4: 192.168.56.104
+localPort: 8 (ICMP echo request type)
+remotePort: 0
+appId: <REDACTED_APPLICATION_BYTES>
+userId: <REDACTED_SID>
+# Full events include private account and machine metadata; omitted.

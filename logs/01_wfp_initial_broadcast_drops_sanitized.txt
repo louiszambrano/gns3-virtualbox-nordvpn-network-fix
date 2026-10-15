@@ -1,0 +1,9 @@
+# Sanitized excerpt, not an unmodified WFP export. Filter ID replaced.
+# Original event concerns UDP NetBIOS broadcast, not GNS3 ICMP.
+localAddrV4: 192.168.56.1
+remoteAddrV4: 192.168.56.255
+ipProtocol: 17 (UDP)
+localPort: 137 / 138
+type: FWPM_NET_EVENT_TYPE_PUBLIC_CLASSIFY_DROP
+filterId: <FILTER_ID>
+actionType: FWP_ACTION_BLOCK
