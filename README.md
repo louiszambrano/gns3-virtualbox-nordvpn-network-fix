@@ -1,9 +1,7 @@
 <div align="center">
-  <img
-    src="NordVPN%20Blocked%20GNS3%20in%20VirtualBox.png"
-    alt="GNS3 VirtualBox troubleshooting - NordVPN blocking local network communication"
-    width="850"
-  />
+  <img src="assets/NordVPN%20Blocked%20GNS3%20in%20VirtualBox.png"
+       alt="GNS3 and NordVPN troubleshooting thumbnail"
+       width="850">
 </div>
 
 # 🛡️ GNS3 Network Troubleshooting
