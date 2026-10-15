@@ -6,7 +6,6 @@
 </div>
   
 
-<div align="center">
 
 # 🛡️ GNS3 Network Troubleshooting
 
